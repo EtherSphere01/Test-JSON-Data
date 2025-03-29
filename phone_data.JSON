@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "model": "SM-S928B",
+    "release_date": "2024-01-17",
+    "android_system": "Android 14",
+    "id": "SGS24U-001",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743281610/vcupgzaix4a0an4vssch.jpg"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "model": "G8P-01",
+    "release_date": "2023-10-04",
+    "android_system": "Android 14",
+    "id": "GPIX8P-002",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743281865/czoe9llujn9cffx9l2gg.jpg"
+  },
+  {
+    "name": "OnePlus 12",
+    "model": "OP12",
+    "release_date": "2024-01-23",
+    "android_system": "Android 14",
+    "id": "OP12-003",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282262/srloikphxtvx9zkdjxxp.png"
+  },
+  {
+    "name": "Xiaomi 14 Pro",
+    "model": "M14P",
+    "release_date": "2023-10-27",
+    "android_system": "Android 14",
+    "id": "XIA14P-004",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282257/jpdv5hroswrjktdwk4k1.jpg"
+  },
+  {
+    "name": "Sony Xperia 1 V",
+    "model": "XQ-DQ54",
+    "release_date": "2023-05-10",
+    "android_system": "Android 13",
+    "id": "SONX1V-005",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282257/fygt106yyhdtx3gmnvw4.webp"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold5",
+    "model": "SM-F946B",
+    "release_date": "2023-07-26",
+    "android_system": "Android 13",
+    "id": "SGZF5-006",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282257/nyclgioryllutcfi2a1z.webp"
+  },
+  {
+    "name": "Vivo X100 Pro",
+    "model": "V2309A",
+    "release_date": "2023-11-13",
+    "android_system": "Android 14",
+    "id": "VIVX100P-007",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282257/bnl6kcq3t4avqg1i5w29.jpg"
+  },
+  {
+    "name": "Oppo Find X6 Pro",
+    "model": "PFEM10",
+    "release_date": "2023-03-21",
+    "android_system": "Android 13",
+    "id": "OPPX6P-008",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282256/yk5hjeqqwgpqbfdpl7bs.jpg"
+  },
+  {
+    "name": "Asus ROG Phone 7 Ultimate",
+    "model": "AI2205_D",
+    "release_date": "2023-04-13",
+    "android_system": "Android 13",
+    "id": "ASROG7U-009",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282256/trs2adwmosdod2bp1xhf.png"
+  },
+  {
+    "name": "Motorola Edge 40 Pro",
+    "model": "XT2301-4",
+    "release_date": "2023-04-04",
+    "android_system": "Android 13",
+    "id": "MOTED40P-010",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282257/ew2fama4p7aga7drul7s.jpg"
+  },
+  {
+    "name": "Realme GT 5 Pro",
+    "model": "RMX3820",
+    "release_date": "2023-12-07",
+    "android_system": "Android 14",
+    "id": "RGT5P-011",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282256/baalecgqwtfmwqsmopmi.jpg"
+  },
+  {
+    "name": "Nothing Phone 2",
+    "model": "A065",
+    "release_date": "2023-07-11",
+    "android_system": "Android 13",
+    "id": "NTPH2-012",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282256/vcu9i20oqgkt19k8hdro.jpg"
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "model": "SM-A546E",
+    "release_date": "2023-03-15",
+    "android_system": "Android 13",
+    "id": "SGA54-013",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282256/kqzx8iueo4xsynsbjsos.jpg"
+  },
+  {
+    "name": "Google Pixel 7a",
+    "model": "G7A-01",
+    "release_date": "2023-05-10",
+    "android_system": "Android 13",
+    "id": "GPIX7A-014",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282255/rgrni4ge3h9xhrkhtvpd.jpg"
+  },
+  {
+    "name": "Xiaomi Redmi Note 12 Pro+",
+    "model": "MZB0D4DIN",
+    "release_date": "2023-01-05",
+    "android_system": "Android 12",
+    "id": "XRN12P-015",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282255/pmewwgxrgm3ersgmhpqv.jpg"
+  },
+  {
+    "name": "OnePlus Nord 3",
+    "model": "CPH2491",
+    "release_date": "2023-07-05",
+    "android_system": "Android 13",
+    "id": "OPN3-016",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282255/c25b171lkghtkb6ay7dj.jpg"
+  },
+  {
+    "name": "Sony Xperia 5 V",
+    "model": "XQ-DE54",
+    "release_date": "2023-09-01",
+    "android_system": "Android 13",
+    "id": "SONX5V-017",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282255/gffqavqozp3pdnqsydlr.jpg"
+  },
+  {
+    "name": "Samsung Galaxy M14",
+    "model": "SM-M146B",
+    "release_date": "2023-03-08",
+    "android_system": "Android 13",
+    "id": "SGM14-018",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282256/rfveiyn0djkw4hetkmtf.jpg"
+  },
+  {
+    "name": "Vivo V29 Pro",
+    "model": "V2251",
+    "release_date": "2023-09-27",
+    "android_system": "Android 13",
+    "id": "VIV29P-019",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282255/c9blcumcpifmorvqxa1h.jpg"
+  },
+  {
+    "name": "Motorola Razr 40 Ultra",
+    "model": "XT2321-1",
+    "release_date": "2023-06-01",
+    "android_system": "Android 13",
+    "id": "MOTR40U-020",
+    "image": "https://res.cloudinary.com/du44vdlfb/image/upload/v1743282255/gyydth0mxkp1cvgpiz4k.jpg"
+  }
+]
